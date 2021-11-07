@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# ReactJS
+ My first project including JavaScript "React" framework!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Описание
+<p>Мой первый начальный <i>обучающий проект</i> по работе с всемирно известной JS-библиотекой — <b>"React"</b>. Загоревшись желанием поработать с "Реактом", я зашел на сайт <b>"https://ru.reactjs.org/tutorial/tutorial.html"</b>, посвящённый изучению основ фреймворка "React", а также для всех желающих — глубокому обсуждению любых других возможностей этой крутой библиотеки; и начал делать практический подготовительный проект, следуя пояснениям и комментариям замечательных авторов статей этого сайта! Эта работа на практике обучает установке "Реакта" и всего нужного и полезного для него и развивает базовые навыки работы с этим превосходным фреймворком.</p>
 
-## Available Scripts
+<p>В процессе чтения статьи и внесения изменений в JS-код, мы поэтапно создаём простую игру <i>"Крестики-нолики"</i>. По мере разработки этого проекта, мы знакомимся с основополагающими понятиями "Реакта", такими как: компоненты приложения, <i>передача свойств</i> от одной компоненты другой, древовидная <i>иерархия</i> этих компонент, суть и синтаксис <i>"jsx"</i>, отрисовка компоненты с помощью метода <i>"render()"</i> — кроме этого, мы повторили и закрепили важные детали и свойства языка JavaScript, касающиеся работы с его <i>массивами и функциями</i>. И многое-многое другое!</p>
 
-In the project directory, you can run:
+<p>Функциональность нашего приложения заключается в возможности двум игрокам поиграть в саму игру, отмечая свой ход крестиком либо ноликом на игровом поле и видя результат своего хода; можно также вернуться по истории ходов обратно на тот ход, который тебя интересует.</p>
 
-### `npm start`
+<p><b>Спасибо всем создателям такой отличной идеи проекта, авторам понятной и очень интересной статьи, и благодарность разработчикам "ReactJS"! И тебе спасибо, дорогой читатель и обозреватель этого репозитория, что выслушал мои рассуждения и заключения по поводу этой работы!)</b></p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p><b>Хорошего тебе настроения, друг! :)</b></p>
